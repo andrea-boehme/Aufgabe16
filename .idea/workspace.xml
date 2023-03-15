@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7021ae-eeaf-41ad-8e94-668e2a51c994" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericArrayWrapper.java" afterDir="false" />
+    <list default="true" id="4b7021ae-eeaf-41ad-8e94-668e2a51c994" name="Changes" comment="lösung Aufgabe16">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe16.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ArrayClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/GenericArrayWrapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GenericArrayWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericArrayWrapper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,11 +128,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678891869128</updated>
-      <workItem from="1678891870611" duration="9048000" />
+      <workItem from="1678891870611" duration="9865000" />
     </task>
+    <task id="LOCAL-00001" summary="lösung Aufgabe16">
+      <created>1678914697614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678914697614</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lösung Aufgabe16" />
+    <option name="LAST_COMMIT_MESSAGE" value="lösung Aufgabe16" />
   </component>
 </project>
